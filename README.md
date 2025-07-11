@@ -2,7 +2,7 @@
 
 This is a **frontend clone** of the homepage of [Obys Agency](https://obys.agency/) built using **HTML**, **CSS**, and **JavaScript** (without any frameworks). The goal of this project was to recreate the design, layout, and animations of the award-winning creative agency to sharpen modern frontend development skills.
 
- Live Demo - {https://cvy1305.github.io/obys-agency/}
+ Live Demo - {https://cvy1305.github.io/obys-agency}
 
 ## 🚀 Features
 
